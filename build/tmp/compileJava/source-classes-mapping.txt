@@ -1,0 +1,36 @@
+tasks/IrLogin.java
+ tasks.IrLogin
+userinterface/UtestHomePage.java
+ userinterface.UtestHomePage
+userinterface/UtestFormularioDispositivos.java
+ userinterface.UtestFormularioDispositivos
+tasks/PasoCuatro.java
+ tasks.PasoCuatro
+userinterface/UtestUltimoPasoPage.java
+ userinterface.UtestUltimoPasoPage
+tasks/PasoUno.java
+ tasks.PasoUno
+tasks/Abrir.java
+ tasks.Abrir
+tasks/PasoTres.java
+ tasks.PasoTres
+userinterface/UtestFormularioInfoPersonalPages.java
+ userinterface.UtestFormularioInfoPersonalPages
+model/UtestData.java
+ model.UtestData
+userinterface/UtestPages.java
+ userinterface.UtestPages
+userinterface/UtestLoginPage.java
+ userinterface.UtestLoginPage
+userinterface/UtestFormularioLocalizacionPages.java
+ userinterface.UtestFormularioLocalizacionPages
+tasks/Login.java
+ tasks.Login
+tasks/Registrarse.java
+ tasks.Registrarse
+tasks/PasoDos.java
+ tasks.PasoDos
+questions/Answer.java
+ questions.Answer
+userinterface/UtestValidacionLoginPage.java
+ userinterface.UtestValidacionLoginPage
